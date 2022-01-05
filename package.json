@@ -1,0 +1,31 @@
+{
+  "name": "wegetbread",
+  "version": "1.0.0",
+  "description": "Bread is life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server,mjs "
+  },
+  "engines": {
+    "node": "v14.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cpike95/WeGetBread.git"
+  },
+  "keywords": [
+    "bread"
+  ],
+  "author": "cpike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cpike95/WeGetBread/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  },
+  "homepage": "https://github.com/Cpike95/WeGetBread#readme"
+}
